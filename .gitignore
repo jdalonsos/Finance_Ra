@@ -2,3 +2,7 @@
 .venv/
 venv/
 env/s
+
+
+# Ignore PDFs
+*.pdf
